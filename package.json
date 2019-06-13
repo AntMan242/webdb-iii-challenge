@@ -1,0 +1,12 @@
+{
+  "name": "webdb-iii-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AntMan242/webdb-iii-challenge.git",
+  "author": "anthony <anthony24.kwhomes@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.17.5",
+    "sqlite3": "^4.0.8"
+  }
+}
